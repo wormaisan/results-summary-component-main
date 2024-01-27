@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/flex-mqDZvgjCJd)
+- Live Site URL: [https://wormaisan.github.io/results-summary-component-main/](https://wormaisan.github.io/results-summary-component-main/)
 
 ## My process
 
